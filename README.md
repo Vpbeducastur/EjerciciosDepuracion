@@ -1,4 +1,4 @@
-# Proyecto de Ejercicios de Depuración en Java
+# Proyecto de Ejercicios de Depuración en Java.
 
 Este repositorio contiene una serie de ejercicios diseñados para practicar y mejorar las habilidades de depuración en el lenguaje Java. Estos ejercicios forman parte del módulo **Entornos de Desarrollo** del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. El objetivo es ayudar a los estudiantes a identificar, entender y corregir errores comunes en el código.
 
